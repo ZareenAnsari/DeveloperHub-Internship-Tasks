@@ -8,7 +8,7 @@ This repository contains the machine learning tasks completed during my internsh
     * Logistic Regression
     * Decision Tree
     * Random Forest
-    * Extra Gradient Boosting Tree (XGBoost)]** for classification.
+    * Extra Gradient Boosting Tree (XGBoost)] for classification.
 *   **Results:** Achieved **[ 90%]** accuracy. I found that **[Credit Score]** was a major factor in churn.
 
 ## 2. Personal Loan Acceptance Prediction
